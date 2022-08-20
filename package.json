@@ -1,0 +1,22 @@
+{
+  "name": "typescript-all-in-one",
+  "version": "1.0.0",
+  "description": "+ 자바스크립트보다 안정적",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programmer-sjk/typescript-all-in-one.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programmer-sjk/typescript-all-in-one/issues"
+  },
+  "homepage": "https://github.com/programmer-sjk/typescript-all-in-one#readme",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
